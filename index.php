@@ -1,6 +1,6 @@
 <?php
 //Định nghĩa 1 hằng số làm đường dẫn cho tên miền
-define("URL_BASE", "http://localhost/mvc2/");
+define("URL_BASE", "http://localhost/Web-project/");
 require_once("database.php");
 
 //Xử lý lấy dữ liệu trên 2 tham số là "Controller" và "action" ở trên URL
