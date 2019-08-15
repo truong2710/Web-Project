@@ -4,7 +4,8 @@
 $controllers = array(
 	'pages' => ['home','error','detail'],
 	'users' => ['login','logout', 'change','register','login_process'],
-	'category' => ['home']
+	'category' => ['home'],
+	'news' => ['home']
 );
 
 //Kiểm tra xem kh người dùng truyền giá trị cho tham số 'controller' trên URL có tồn tại trên mảng không

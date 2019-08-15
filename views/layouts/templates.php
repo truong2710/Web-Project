@@ -163,15 +163,8 @@
 				<ul class="main-nav nav navbar-nav">
 					<li class="active"><a href="<?php echo URL_BASE;?>">Home</a></li>
 					<li><a href="#">Product</a></li>
-					<li><a href="<?php echo URL_BASE;?>?controller=category&id=1">Categories</a>
-						<ul>
-							<li><a href="#">Phone</a></li>
-							<li><a href="#">Laptop</a></li>
-							<li><a href="#">Tablet</a></li>
-							<li><a href="#">Linh kiện</a></li>
-						</ul>
-					</li>
-					<li><a href="#">News</a></li>
+					<li><a href="<?php echo URL_BASE;?>?controller=category&id=1">Categories</a></li>
+					<li><a href="<?php echo URL_BASE;?>?controller=news&id=1">News</a></li>
 					<li><a href="#">Sales</a></li>
 					<li><a href="#">Contact</a></li>
 				</ul>
