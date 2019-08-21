@@ -24,6 +24,7 @@
 							</div>
 						</div>
 					</div>
+					<div>ahihi</div>
 					<!-- /Product main img -->
 
 					<!-- Product thumb imgs -->
