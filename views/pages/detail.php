@@ -24,7 +24,7 @@
 							</div>
 						</div>
 					</div>
-					<div>ahihi</div>
+					<div>ahihi tôi là Quanh</div>
 					<!-- /Product main img -->
 
 					<!-- Product thumb imgs -->
